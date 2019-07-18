@@ -1,1 +1,2 @@
-# zuerich3d
+# Zürich 3D in the MATRIX
+## a simulation & gamification engine 
